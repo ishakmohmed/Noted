@@ -1,3 +1,5 @@
+![img](https://user-images.githubusercontent.com/52876913/113392446-b89cf080-93c7-11eb-9c2b-4766a926867f.JPG)
+
 Noted! is a full stack note taking web app which has very high change for you to actually use it as your go-to note taking app. Build using MERN stack. 
 
 [1] See Live Version Immediately: https://notedbyishak.herokuapp.com/
