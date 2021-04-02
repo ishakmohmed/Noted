@@ -11,8 +11,8 @@ Noted! is a full stack note taking web app which has very high change for you to
 * password: Masteruser975
 
 [5] Intro: Noted! is a full stack note taking web app using the MERN stack (MongoDB, Express.js, React.js, Node.js). It has got all the features that you need in a note taking app while being simplistic.
-This app is full-fledged, complete app which means you can make this app as your go-to note taking app from now onwards. It has a JWT authentication and a classic black and white UI. You can add/edit/delete note.
-Also, it is mobile responsive and no design library is used to implement this because I used plain CSS to build the UI to improve my CSS skills.
+This app is a full-fledged, complete app which means you can make this app as your go-to note taking app from now onwards. It has a JWT authentication and a classic black and white UI. You can add/edit/delete note(s).
+Also, it is mobile responsive and no design library is used to implement this since I used plain CSS to build the UI to improve my CSS skills.
 
 [6] Technologies/Features Used:
 * Node.js
@@ -27,5 +27,5 @@ Also, it is mobile responsive and no design library is used to implement this be
 
 [7] How to Run The Project: If you want to see the live, deployed version, head over to this link: https://notedbyishak.herokuapp.com/
 If you want to run the source code locally on your machine, make sure Node.js and MongoDB is installed on your machine. 
-Install all frontend and backend dependencies by typing "npm i" on terminal (client and root/server folders respectively).
-Finally, execute "node server.js" on terminal in root folder and "npm start" on terminal in client folder.
+Install all frontend and backend dependencies by typing "npm i" on terminal (client and server/root folders respectively).
+Finally, execute "node server.js" on terminal in server/root folder and "npm start" on terminal in client folder.
