@@ -18,13 +18,14 @@ Noted! is a full stack note taking web app which has very high change for you to
 This app is a full-fledged, complete app which means you can make this app as your go-to note taking app from now onwards. It has a JWT authentication and a classic black and white UI. You can add/edit/delete note(s).
 Also, it is mobile responsive and no design library is used to implement this since I used plain CSS to build the UI to improve my CSS skills.
 
-[6] Technologies/Features Used:
+[6] Technologies/Features Used/Implemented:
 * Node.js
 * Express.js
 * MongoDB
 * Mongoose
 * React.js
 * React Hooks
+* Authentication
 * JSON Web Token
 * CSS
 * Axios (library to make HTTP requests)
