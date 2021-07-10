@@ -27,6 +27,7 @@ Also, it is mobile responsive and no design library is used to implement this si
 * React Hooks
 * Authentication
 * JSON Web Token
+* Material-UI
 * CSS
 * Axios (library to make HTTP requests)
 
