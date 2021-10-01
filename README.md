@@ -19,6 +19,7 @@ This app is a full-fledged, complete app which means you can make this app as yo
 Also, it is mobile responsive and no design library is used to implement this since I used plain CSS to build the UI to improve my CSS skills.
 
 [6] Technologies/Features Used/Implemented:
+* Docker
 * Node.js
 * Express.js
 * MongoDB
