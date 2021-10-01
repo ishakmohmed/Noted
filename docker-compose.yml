@@ -20,6 +20,7 @@ services:
     env_file:
       - .env
   mylovelymongodb:
+    # "mylovelymongodb" will be included in MongoDB URI in .env file
     image: mongo:4.4
     env_file:
       - .env
