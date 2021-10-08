@@ -26,8 +26,9 @@ Noted! is a full stack note taking web app using the MERN stack (MongoDB, Expres
 ![Mohmed Ishak](https://user-images.githubusercontent.com/52876913/136583444-a43b4053-18b3-486d-9cd5-b67847825178.png)
 
 ### [5] How to Run the Project Locally
-If you want to see the live, deployed version, head over to this link: https://notedbyishak.herokuapp.com/ If you want to run the source code locally on your machine, make sure Node.js and MongoDB is installed on your machine.  Install all frontend and backend dependencies by typing `npm i` on terminal (client and server/root folders respectively).
-Finally, execute `node server.js` on terminal in server/root folder and `npm start` on terminal in client folder.
+If you want to see the live, deployed version, head over to this link: https://notedbyishak.herokuapp.com/ If you want to run the source code locally on your machine, make sure Node.js and MongoDB is installed on your machine.  Install all frontend and backend dependencies separately. Start the development server using `npm start` command. Before that make sure you add a `.env` file and add the following values.
+MONGO_URI=mongodb://localhost:27017
+TOKEN_SECRET=thisisafakejwt
 
 ### [6] Hosting
 * Frontend: Heroku
